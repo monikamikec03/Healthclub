@@ -1,0 +1,32 @@
+[30-May-2023 12:02:08 UTC] PHP Warning:  require(../include/var.php): Failed to open stream: No such file or directory in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php on line 2
+[30-May-2023 12:02:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../include/var.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php on line 2
+[30-May-2023 12:02:37 UTC] PHP Warning:  require(../include/var.php): Failed to open stream: No such file or directory in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php on line 2
+[30-May-2023 12:02:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../include/var.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php on line 2
+[30-May-2023 12:03:27 UTC] PHP Warning:  require(../include/var.php): Failed to open stream: No such file or directory in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php on line 2
+[30-May-2023 12:03:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../include/var.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php on line 2
+[30-May-2023 12:03:42 UTC] PHP Warning:  require(../include/var.php): Failed to open stream: No such file or directory in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php on line 2
+[30-May-2023 12:03:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../include/var.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php on line 2
+[30-May-2023 12:04:00 UTC] PHP Warning:  require(../../moj_spoj/otvori_vezu_cmp.php): Failed to open stream: No such file or directory in /home/healthcl/public_html/include/putanja.php on line 2
+[30-May-2023 12:04:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../moj_spoj/otvori_vezu_cmp.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/healthcl/public_html/include/putanja.php:2
+Stack trace:
+#0 /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php(3): require()
+#1 {main}
+  thrown in /home/healthcl/public_html/include/putanja.php on line 2
+[30-May-2023 12:04:09 UTC] PHP Warning:  require(../../moj_spoj/otvori_vezu_cmp.php): Failed to open stream: No such file or directory in /home/healthcl/public_html/include/putanja.php on line 2
+[30-May-2023 12:04:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../moj_spoj/otvori_vezu_cmp.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/healthcl/public_html/include/putanja.php:2
+Stack trace:
+#0 /home/healthcl/public_html/hc/fetch_data/fetch_holidays.php(3): require()
+#1 {main}
+  thrown in /home/healthcl/public_html/include/putanja.php on line 2
